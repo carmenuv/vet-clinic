@@ -41,7 +41,7 @@ const Footer=()=>{
                             <div>                        
                                 <nav className="ancor-iconos">
                                     <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
-                                        <i className="fa-brands fa-Facebook"></i>
+                                        <i class="bi bi-facebook"></i>
                                     </a>                            
                                     <a id="instagram" href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
                                         <i className="bi bi-instagram"></i>
